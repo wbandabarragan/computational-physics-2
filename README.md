@@ -1,4 +1,4 @@
-# Computational Physics I 
+# Computational Physics II
 
 ## Yachay Tech University - 2022/2023
 
