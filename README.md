@@ -54,4 +54,24 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - High-performance computing (HPC)
 
-### Prerequisites: Ideally, to take this class, you must have approved Computational Physics 1
+### Prerequisites:
+
+Ideally, to take this class, you should have already taken and approved Computational Physics 1.
+
+### Evaluation:
+
+1. Formative Evaluation (Homework): 20%
+
+2. Laboratory (Classwork): 20%
+
+3. Midterm Exam: 30%
+
+4. Final Exam: 30%
+
+
+### Notes:
+
+There will be no make-up assignment nor exams.
+
+Late assignments/exams without justification won't be accepted.
+
