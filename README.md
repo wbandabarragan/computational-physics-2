@@ -54,6 +54,14 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - High-performance computing (HPC)
 
+
+The full course syllabus and programme can be found here:
+
+https://github.com/wbandabarragan/computational-physics-2/blob/main/Course-Syllabus.pdf
+
+https://github.com/wbandabarragan/computational-physics-2/blob/main/Course-Programme.pdf
+
+
 ### Prerequisites:
 
 Ideally, to take this class, you should have already taken and approved Computational Physics 1.
