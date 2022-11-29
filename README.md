@@ -14,37 +14,37 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 ## Syllabus:
 
-### 1. Differential equations in physics:
+### 1. Ordinary differential equations in physics:
 
-- Review of ordinary differential equations
+- Ordinary differential equations, and initial value problems
 
-- Applications of ordinary differential equations
+- Euler methods, Runge-Kutta methods, and applications
 
-- Partial differential equations
+- Boundary value problems, shooting and finite difference methods, applications
 
-### 2. Applications of partial differential equations to physics:
+### 2. Partial differential equations in physics:
 
-- Thermodynamic simulations
+- Partial differential equations, generalities and classification
 
-- Introduction to molecular dynamics
+- Methods of solving partial differential equations
 
-- Electrostatics and Heat Flow
-
-- Quantum Mechanics
+- Applications to electromagnetism, heat flow, and quantum mechanics
 
 ### 3. Computational Fluid Dynamics (CFD):
 
-- Advection, shocks, and solitons
+- Discretisation, meshing and conservation in computational fluid dynamics
 
-- Introduction to computational hydrodynamics
+- Advection, shocks and solitons
 
-- CFD applications
+- Introduction to hydrodynamics and computational fluid dynamics (CFD) applications
 
-### 4. Nonlinear dynamics and chaos:
+### 4.Special topics in computational physics:
 
-- Chaotic systems
+- Thermodynamic simulations and introduction to molecular dynamics
 
-- Fractals and statistical growth
+- Nonlinear dynamics, chaotic systems, fractals and statistical growth
+
+- Introduction to machine learning
 
 ### 5. Software design and parallel computing for physics:
 
@@ -67,6 +67,13 @@ Ideally, to take this class, you should have already taken and approved Computat
 3. Midterm Exam: 30%
 
 4. Final Exam: 30%
+
+
+### Weekly tutoring schedule:
+
+- 16:00 – 17:00 Tuesday
+
+- 15:00 – 16:00 Thursday
 
 
 ### Notes:
