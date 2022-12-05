@@ -79,7 +79,7 @@ Ideally, to take this class, you should have already taken and approved Computat
 
 ### Weekly tutoring schedule:
 
-- 16:00 – 17:00 Tuesday
+- 15:00 – 16:30 Tuesday
 
 - 15:00 – 16:00 Thursday
 
