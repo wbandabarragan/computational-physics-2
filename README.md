@@ -86,7 +86,7 @@ Ideally, to take this class, you should have already taken and approved Computat
 
 ### Notes:
 
-There will be no make-up assignments nor exams.
+There will be no make-up assignments nor make-up exams.
 
 Late assignments/exams without justification won't be accepted.
 
