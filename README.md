@@ -38,7 +38,7 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Introduction to hydrodynamics and computational fluid dynamics (CFD) applications
 
-### 4.Special topics in computational physics:
+### 4. Special topics in computational physics:
 
 - Thermodynamic simulations and introduction to molecular dynamics
 
