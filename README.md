@@ -79,14 +79,47 @@ Ideally, to take this class, you should have already taken and approved Computat
 
 ### Weekly tutoring schedule:
 
-- 15:30 – 16:30 Tuesday
+- 15:00 – 16:00 Tuesday
 
-- 15:00 – 16:00 Thursday
+- 17:00 – 18:00 Thursday
 
 
-### Notes:
+## Very important policies:
 
-There will be no make-up assignments nor make-up exams.
+There will be neither make-up assignments nor make-up exams. Please do your best in every assignment.
 
-Late assignments/exams without justification won't be accepted.
+Late assignments without appropriate justification will receive a penalisation according to the following criteria:
+
+- 0-1 day late: -25%
+
+- 1-2 days late: -50%
+
+- 2-3 days late: -75%
+
+- +3 days late: no marks
+
+Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
+
+
+## Calendar:
+
+The assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
+
+
+## Weekly tutoring schedule:
+
+If you have questions on the material, you can find me in the office:
+
+- On Mondays: 14:00 – 15:00 
+
+- On Tuesdays: 14:00 – 15:00 
+
+
+## On academic integrity:
+
+- Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
+
+- Cheating in exams, plagiarising, and copying code or solutions from the Internet, from AI platforms (like chatGPT), from other students, or from previous years' solutions are all breaches of academic integrity.
+
+- Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
 
