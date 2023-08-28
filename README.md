@@ -68,20 +68,13 @@ Ideally, to take this class, you should have already taken and approved Computat
 
 ### Evaluation:
 
-1. Formative Evaluation (Homework): 20%
+1. Formative Evaluation (2 Homework): 20%
 
-2. Laboratory (Classwork): 20%
+2. Laboratory (2 Classwork): 20%
 
 3. Midterm Exam: 30%
 
 4. Final Exam: 30%
-
-
-### Weekly tutoring schedule:
-
-- 15:00 – 16:00 Tuesday
-
-- 17:00 – 18:00 Thursday
 
 
 ## Very important policies:
