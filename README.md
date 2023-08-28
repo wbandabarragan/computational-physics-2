@@ -3,7 +3,7 @@
 ## Yachay Tech University - 2022/2023
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University from November 2022 to March 2023.
+This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University from August to December 2023.
 
 ## Lecturer:
 Wladimir E. Banda Barragán
