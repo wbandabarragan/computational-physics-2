@@ -22,7 +22,15 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Boundary value problems, shooting and finite difference methods, applications
 
-### 2. Partial differential equations in physics:
+### 2. Software design and parallel computing for physics:
+
+- Software design using object oriented programming
+
+- Message Passage Interface (MPI) and parallel computing
+
+- High-performance computing (HPC)
+
+### 3. Partial differential equations in physics:
 
 - Partial differential equations, generalities and classification
 
@@ -30,7 +38,7 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Applications to electromagnetism, heat flow, and quantum mechanics
 
-### 3. Computational Fluid Dynamics (CFD):
+### 4. Computational Fluid Dynamics (CFD):
 
 - Discretisation, meshing and conservation in computational fluid dynamics
 
@@ -38,21 +46,13 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Introduction to hydrodynamics and computational fluid dynamics (CFD) applications
 
-### 4. Special topics in computational physics:
+### 5. Special topics in computational physics:
 
 - Thermodynamic simulations and introduction to molecular dynamics
 
 - Nonlinear dynamics, chaotic systems, fractals and statistical growth
 
 - Introduction to machine learning
-
-### 5. Software design and parallel computing for physics:
-
-- Software design using object oriented programming
-
-- Message Passage Interface (MPI) and parallel computing
-
-- High-performance computing (HPC)
 
 
 The full course syllabus and programme can be found here:
