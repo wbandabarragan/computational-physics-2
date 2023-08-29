@@ -1,9 +1,9 @@
 # Computational Physics II
 
-## Yachay Tech University - 2022/2023
+## Yachay Tech University - 2023
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University from November 2022 to March 2023.
+This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University from August to December 2023.
 
 ## Lecturer:
 Wladimir E. Banda Barragán
@@ -68,20 +68,13 @@ Ideally, to take this class, you should have already taken and approved Computat
 
 ### Evaluation:
 
-1. Formative Evaluation (Homework): 20%
+1. Formative Evaluation (2 Homework): 20%
 
-2. Laboratory (Classwork): 20%
+2. Laboratory (2 Classwork): 20%
 
 3. Midterm Exam: 30%
 
 4. Final Exam: 30%
-
-
-### Weekly tutoring schedule:
-
-- 15:00 – 16:00 Tuesday
-
-- 17:00 – 18:00 Thursday
 
 
 ## Very important policies:
@@ -110,9 +103,9 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Mondays: 14:00 – 15:00 
+- On Tuesdays: 15:00 – 16:00 
 
-- On Tuesdays: 14:00 – 15:00 
+- On Thursdays: 17:00 – 18:00 
 
 
 ## On academic integrity:
