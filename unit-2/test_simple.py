@@ -1,10 +1,18 @@
+#!/usr/bin/env python3
+
+# Test module
+# Funtion 1: defines an operation
 
 def multiply(a, b):
-    return a*b
+   c = a * b
+   return c
+
+# Function 2: test function
 
 def test_multiply():
-    assert multiply(4, 6) == 24
+   """
+   Function to test our multiply operation.
+   """
+   assert multiply(2, 5) == 10
 
-def test_multiply2():
-    assert multiply(5, 6) == 2
 

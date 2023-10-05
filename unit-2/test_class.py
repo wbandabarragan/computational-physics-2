@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # a test class is useful to hold data that we might want setup
 # for every test.
 
