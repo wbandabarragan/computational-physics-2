@@ -1,3 +1,0 @@
-test_simple.py::test_multiply2 FAILED                                    [100%]
-=================================== FAILURES ===================================
-FAILED test_simple.py::test_multiply2 - assert 30 == 2
