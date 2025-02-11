@@ -1,9 +1,9 @@
 # Computational Physics II
 
-## Yachay Tech University - 2023
+## Yachay Tech University - 2025
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University from August to December 2023.
+This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University from February to June 2025.
 
 ## Lecturer:
 Wladimir E. Banda Barragán
@@ -22,31 +22,41 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Boundary value problems, shooting and finite difference methods, applications
 
-### 2. Software design and parallel computing for physics:
+### 2. Software design:
+
+- Python classes and modules
+  
+- Standalone modules and python packaging
 
 - Software design using object oriented programming
+  
+- Timing tests and efficient coding.
 
-- Message Passage Interface (MPI) and parallel computing
+### 3. Parallel computing for physics::
 
-- High-performance computing (HPC)
+- High-performance computing (HPC) and job managers
+  
+- Parallel computing: multiprocessing and joblib
+  
+- The Message Passage Interface (MPI) 
 
-### 3. Partial differential equations in physics:
+- Application Programming Interfaces (APIs)
+  
+
+### 4. Partial differential equations in physics:
 
 - Partial differential equations, generalities and classification
 
 - Methods of solving partial differential equations
 
-- Applications to electromagnetism, heat flow, and quantum mechanics
+- Parabolic and elliptical problems. Heat and Poisson equations.
 
-### 4. Computational Fluid Dynamics (CFD):
+- Hyperbolic problems: Introduction to computational fluid dynamics (CFD)
 
-- Discretisation, meshing and conservation in computational fluid dynamics
-
-- Advection, shocks and solitons
-
-- Introduction to hydrodynamics and computational fluid dynamics (CFD) applications
 
 ### 5. Special topics in computational physics:
+
+- Applications to electromagnetism, heat flow, and quantum mechanics
 
 - Thermodynamic simulations and introduction to molecular dynamics
 
@@ -57,44 +67,36 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 The full course syllabus and programme can be found here:
 
-https://github.com/wbandabarragan/computational-physics-2/blob/main/Course-Syllabus.pdf
-
-https://github.com/wbandabarragan/computational-physics-2/blob/main/Course-Programme.pdf
+TBA
+TBA
 
 
 ### Prerequisites:
 
 Ideally, to take this class, you should have already taken and approved Computational Physics 1.
 
-### Evaluation:
+## Evaluation:
 
-1. Formative Evaluation (2 Homework): 20%
+Evaluation has 4 components, with weights distributed as follows:
 
-2. Laboratory (2 Classwork): 20%
+**1. Formative Evaluation (2 Homework):** 20%
 
-3. Midterm Exam: 30%
+**2. Laboratory (4 Quizzes):** 20%
 
-4. Final Exam: 30%
+**3. 1 Midterm Exam:** 30%
 
+**4. 1 Final Exam:** 30%
 
-## Very important policies:
+These components consist of the following tasks:
 
-There will be neither make-up assignments nor make-up exams. Please do your best in every assignment.
+- Homework include long application problems.
 
-Late assignments without appropriate justification will receive a penalisation according to the following criteria:
+- Classwork are quizzes with two components: one is carried out in class, one is carried out at home.
 
-- 0-1 day late: -25%
-
-- 1-2 days late: -50%
-
-- 2-3 days late: -75%
-
-- +3 days late: no marks
-
-Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
+- Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
 
 
-## Calendar:
+## On deadlines:
 
 The assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
 
@@ -103,16 +105,20 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Tuesdays: 15:00 – 16:00 
+- On Tuesdays: TBD
 
-- On Thursdays: 17:00 – 18:00 
+- On Wednesdays: TBD
 
 
 ## On academic integrity:
 
 - Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
 
-- Cheating in exams, plagiarising, and copying code or solutions from the Internet, from AI platforms (like chatGPT), from other students, or from previous years' solutions are all breaches of academic integrity.
+- Cheating in exams, plagiarising, and copying code or solutions from other students, from previous years' solutions, and/or from Internet sources are all breaches of academic integrity.
+  
+- The above includes copying code from AI chatbots (which are neither designed nor optimised for physics and programming), e.g. copying and pasting code from chatGPT infringes academic integrity.
 
-- Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
+- Academic misconduct will be penalised according to our University’s regulations.
 
+## Late assignment policy:
+Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
