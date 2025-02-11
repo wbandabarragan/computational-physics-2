@@ -36,7 +36,7 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - High-performance computing (HPC) and job managers
   
-- Parallel computing: multiprocessing and joblib
+- Parallel computing, CPU/GPU, multiprocessing and joblib
   
 - The Message Passage Interface (MPI) 
 
